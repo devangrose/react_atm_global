@@ -42,3 +42,6 @@ body {
   background-color: #F52F4F;
   color: #FFFFFF;
 }
+.hide {
+    display:none;
+}
